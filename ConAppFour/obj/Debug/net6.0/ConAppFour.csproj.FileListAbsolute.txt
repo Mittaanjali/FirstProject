@@ -1,0 +1,14 @@
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.AssemblyInfoInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.AssemblyInfo.cs
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\bin\Debug\net6.0\ConAppFour.exe
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\bin\Debug\net6.0\ConAppFour.deps.json
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\bin\Debug\net6.0\ConAppFour.runtimeconfig.json
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\bin\Debug\net6.0\ConAppFour.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\bin\Debug\net6.0\ConAppFour.pdb
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\refint\ConAppFour.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.pdb
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ConAppFour.genruntimeconfig.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\day4\ConAppFour\ConAppFour\obj\Debug\net6.0\ref\ConAppFour.dll
